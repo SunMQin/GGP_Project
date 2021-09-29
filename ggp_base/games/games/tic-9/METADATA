@@ -1,6 +1,0 @@
-{
-  "gameName": "Tic-Tac-Toe-9",  
-  "rulesheet": "ticTacToe.kif",
-  "stylesheet": "ticTacToe.xsl",
-  "user_interface": "ticTacToe.js"
-}
